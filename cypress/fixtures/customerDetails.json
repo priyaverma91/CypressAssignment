@@ -1,0 +1,17 @@
+{
+  "name": "Test Customer",
+  "firstName": "Test",
+  "lastName": "Customer",
+  "company": "DemoComp",
+  "email": "a@a.com",
+  "phone": "1234567891",
+  "comment": null,
+  "currency": "USD",
+  "id": 27387039,
+  "defaultBillingId": 14660943,
+  "defaultShippingId": 14660943,
+  "createdAt": "2022-05-22T13:27:53.321Z",
+  "updatedAt": "2022-05-22T13:28:00.019Z",
+  "deletedAt": null,
+  "factoryId": 41350
+}

@@ -1,0 +1,22 @@
+{
+    "baseUrl": "https://katanamrp.com",
+    "watchForFileChanges": false,
+    "username": "Demo@gmail.com",
+    "password": "Demo@2022",
+    "reporter": "cypress-multi-reporters",
+    "testFiles": [
+        "katana.login.spec.js",
+        "create-customer.spec.js",
+        "create-sales-orders.spec.js"
+    ],
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    }
+}
