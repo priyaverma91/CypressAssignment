@@ -13,6 +13,11 @@ Install the dependencies and devDependencies to run the test.
 npm install
 ```
 
+Install Recurse
+```sh
+npm i -D cypress recurse
+```
+
 ### Execute Tests
 
 Run the following command in Terminal to execute tests in Headless mode:
