@@ -32,6 +32,13 @@ Run the following command in Terminal to open Cypress Test Runner:
 npm run cypress
 ```
 
+### Headless
+
+To run the tests in headless mode,
+```
+npm run test -- --headless
+```
+
 ### Test Report
 
 You can find the Mochawesome report in the following directory of the Project.
@@ -39,14 +46,14 @@ You can find the Mochawesome report in the following directory of the Project.
 ```sh
 \cypress\reports\mochareports
 ```
+
+Open 'report.html' file to view the report.
 <img width="1727" alt="Screenshot 2022-05-23 at 9 22 20 PM" src="https://user-images.githubusercontent.com/105927698/169858782-d557975e-7525-4928-8541-13503e01249a.png">
 
 
-Open 'report.html' file to view the report.
+#### Test video 
 
-### Headless
+```sh
+cypress/videos
+```
 
-To run the tests in headless mode,
-```
-npm run test -- --headless
-```
