@@ -39,6 +39,8 @@ You can find the Mochawesome report in the following directory of the Project.
 ```sh
 \cypress\reports\mochareports
 ```
+<img width="1727" alt="Screenshot 2022-05-23 at 9 22 20 PM" src="https://user-images.githubusercontent.com/105927698/169858782-d557975e-7525-4928-8541-13503e01249a.png">
+
 
 Open 'report.html' file to view the report.
 
